@@ -1,7 +1,7 @@
 # ScientificColorMaps-for-GIS
-A port of Fabian Crameri's Scientific Colormaps v8
+A port of Fabio Crameri's Scientific Colormaps v8
 
-### All credit to Fabian and his awesome work - [Scientific colour maps](https://www.fabiocrameri.ch/colourmaps/)
+### All credit to Fabio and his awesome work - [Scientific colour maps](https://www.fabiocrameri.ch/colourmaps/)
 
 The two files here are 
 1. QGIS XML Colormaps aggregated into one file - Import with the [Style Manager](https://docs.qgis.org/3.28/en/docs/user_manual/style_library/style_manager.html)
